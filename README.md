@@ -1,2 +1,2 @@
 # comparison-supervised-learning-algorithms
- Evaluating performance of supervised learning algori¡ithms in datasets with different structure
+ Evaluating performance of supervised learning algorithms in a non-linear dataset
